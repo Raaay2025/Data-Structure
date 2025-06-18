@@ -1,5 +1,0 @@
-E:/code/qt/DataStructureCourseDesign/cmake-build-debug/CMakeFiles/DataStructureCourseDesign.dir
-E:/code/qt/DataStructureCourseDesign/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/code/qt/DataStructureCourseDesign/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/code/qt/DataStructureCourseDesign/cmake-build-debug/CMakeFiles/DataStructureCourseDesign_autogen_timestamp_deps.dir
-E:/code/qt/DataStructureCourseDesign/cmake-build-debug/CMakeFiles/DataStructureCourseDesign_autogen.dir
